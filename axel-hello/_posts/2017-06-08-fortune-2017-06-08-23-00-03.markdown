@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fortune 2017-06-08-23-00-03"
+date:   2017-06-08 23:00:03 +0200
+categories: special
+---
+
+Be different: conform.
