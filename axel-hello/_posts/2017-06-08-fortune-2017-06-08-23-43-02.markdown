@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fortune "
+date:   2017-06-08 23:43:02 +0200
+categories: special
+---
+
+Abandon the search for Truth; settle for a good fantasy.
